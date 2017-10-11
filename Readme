@@ -1,0 +1,6 @@
+Dancer2::Tutorial
+If you want read in English go to metacepan.org/pod/Dancer2::Tutorial
+Some change with utf-8
+
+Для русских пользователей, в отличии от оригинального примера добавлена 
+поддержка Utf-8 при обращении к базе данных.
